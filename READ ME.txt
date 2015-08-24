@@ -1,0 +1,15 @@
+READ ME
+-------------------------------------------------------------
+
+1.) To compile and run the Jacobi program, please open a CMD window and navigate
+to the directory where the Jacobi.java and Jacobi.html files are located.
+
+2.) Next, type "javac Jacobi.java"
+
+3.) Next, type "appletviewer Jacobi.html"
+
+The Jacobi program will run. Use the "Run with New Matrix" button to restart the program.
+
+-------------------------------------------------------------
+@createdby Gene Hynson
+@date 9-25-13
